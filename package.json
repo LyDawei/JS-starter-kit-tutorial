@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/dly5891/JS-starter-kit-tutorial#readme",
   "dependencies": {
-    "ajv": "^5.0.0",
+    "ajv": "^6.12.3",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
